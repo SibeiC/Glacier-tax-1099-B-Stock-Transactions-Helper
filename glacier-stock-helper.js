@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Glacier Tax Prep Stock Transactions Helper
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Help nonresident alien fill in the 1099-B stock transactions by importing transactions from local CSV file
 // @author       Tony Chen, JiahaoShan
 // @match        https://www.glaciertax.com/IRSForm/StockTransaction*
@@ -94,7 +94,7 @@ function loadLayout() {
                             Disclaimer: This greasyfork user script is NOT an official tool from Glacier Tax Prep.
                         </li>
                         <li>
-                            Please submit an <a href='https://github.com/TonyCSB/Glacier-tax-1099-B-Stock-Transactions-Helper/issues/new'>issue</a> on <a href='https://github.com/TonyCSB/Glacier-tax-1099-B-Stock-Transactions-Helper'>GitHub</a> for bug reports and feature requests.
+                            Please submit an <a href='https://github.com/TonyCSB/Glacier-tax-1099-B-Stock-Transactions-Helper/issues/new' target="_blank">issue</a> on <a href='https://github.com/TonyCSB/Glacier-tax-1099-B-Stock-Transactions-Helper' target="_blank">GitHub</a> for bug reports and feature requests.
                         </li>
                     </ul>
                 </fieldset>
