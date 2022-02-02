@@ -9,7 +9,7 @@ GreasyFork script for helping nonresident alien fill in the 1099-B stock transac
 ## Installation
 
 1. Install [Tampermonkey - Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-2. Go to [Glacier Tax Prep Stock Transactions Helper - Greasy Fork]().
+2. Go to [Glacier Tax Prep Stock Transactions Helper - Greasy Fork](https://greasyfork.org/en/scripts/439500-glacier-tax-prep-stock-transactions-helper).
 3. Press install.
 
 ## Features
@@ -30,6 +30,6 @@ GreasyFork script for helping nonresident alien fill in the 1099-B stock transac
   <img src="https://lh3.googleusercontent.com/Jw8WK7jymMCsVztOa3IZQq3rWpo5_BRKVhKBg044jfZH30B7X54VsKtIb1iDD-Ioa9b2KVXw=s1280-h800-e365-rw">
   <img src="https://lh3.googleusercontent.com/I2z1f8Kpf6WpZlIa0Z2iRmJcxliiSp7YmYDwjk7VE1TW6fvO38SXCYoNvySe9L-BiOtcWzGCig=s1280-h800-e365-rw">
 * Live Demo
-  ![Live Demo](img/Glacier-Tax-Prep-Form-1099-B-Stock-Transactions-Importer-v0.3.2.gif)
+  ![Live Demo](https://raw.githubusercontent.com/JiahaoShan/Glacier-tax-1099-B-Stock-Transactions-Helper/master/img/Glacier-Tax-Prep-Form-1099-B-Stock-Transactions-Importer-v0.3.2.gif)
 
 * Disclaimer: This is NOT an official app from Glacier Tax.
