@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Glacier Tax Prep Stock Transactions Helper
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Help nonresident alien fill in the 1099-B stock transactions by importing transactions from local CSV file
 // @author       Tony Chen, JiahaoShan
 // @match        https://www.glaciertax.com/IRSForm/StockTransaction*
