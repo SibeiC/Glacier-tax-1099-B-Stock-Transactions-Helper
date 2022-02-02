@@ -1,18 +1,16 @@
 # Glacier Tax 1099-B Stock Transactions Helper
 
-## Update 2019
-
-I don't have access to Glacier anymore therefore cannot really maintain this repo. This plugin has helped hundreds of people like you. If you find this helpful, please contribute. Thank you!
+This is based on [Glacier-tax-1099-B-Stock-Transactions-Helper](https://github.com/JiahaoShan/Glacier-tax-1099-B-Stock-Transactions-Helper) written by [JiahaoShan](https://github.com/JiahaoShan). The original Chrome extension version has been converted to a GreasyFork version for ease of use and easy installation process.
 
 ## Description
 
-Chrome extension for helping nonresident alien fill in the 1099-B stock transactions by importing transactions from local CSV file
+GreasyFork script for helping nonresident alien fill in the 1099-B stock transactions by importing transactions from local CSV file
 
 ## Installation
 
-* ~~Install it here: https://chrome.google.com/webstore/detail/glacier-tax-1099-b-stock/mdnkfhpikjbgedlenpdnkhnfhdaohfcm~~
-* This plugin has been unpublished from the Chrome Web Store because I am unable to verify this functionality any more.
-* To use it, download this repo and install it as unpacked package. Instructions: https://stackoverflow.com/a/24577660
+1. Install [Tampermonkey - Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
+2. Go to [Glacier Tax Prep Stock Transactions Helper - Greasy Fork]().
+3. Press install.
 
 ## Features
 
@@ -24,8 +22,8 @@ Chrome extension for helping nonresident alien fill in the 1099-B stock transact
 
 * You may use Excel or Numbers to edit and then select to export as CSV format
 * You may use online OCR software to help you convert non-selectable 1099 PDF to Excel
-* If you use Robinhood, you may use https://jiahaoshan.github.io/Robinhood-1099-B-Transactions-Export-Tool/ to help you export transactions to CSV.
-* Format for acquired date or sold date: MM/DD/YYYY
+* If you get Consolidated Form 1099 PDF from Robinhood, <a href='https://github.com/joshfraser/robinhood-to-csv' target='_blank'>you may export it to .csv file</a>.
+* Format for acquired date or sold date: `MM/DD/YYYY`
 * CSV Format Example
   <img src="https://lh3.googleusercontent.com/k8PNDDnTFJ2z4VOiSsPIUxDNSabxhn4nICzgoE_42nuMvlV2zt0zpe2_5_XwZCW2AHov9g834A=s1280-h800-e365-rw">
   <img src="https://lh3.googleusercontent.com/lDdUFP9tIUGoKjS2R-fd6oQtLnMqw58OkYT0n6N8TG08RMLTRpZG0jW_d2SA5ynR6jdQaSkNVw=s1280-h800-e365-rw">
